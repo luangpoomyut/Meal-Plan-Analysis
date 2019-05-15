@@ -35,4 +35,18 @@ You can run this program if you download the entirety of this folder to your loc
 
 To populate the program with data, click on File->Open and designate which file you would like to load your data from.
 
-Once data has been loaded, you can select 
+You can additionally add more food items to your list manually by clicking on the "Create Food" button.
+
+Once data has been loaded or manually added, you can select food items by clicking on them in the list and they should become highlighted. You can then click on the "Add to Meal" button to add it to your meal plan.
+
+You can delete your meal plan all at once by clicking on the "Clear Meal" button.
+
+To speed up selecting food items you may already know of or if you are looking for items of interest, there are two ways to search for food items: name searching or filtering by macronutrients.
+
+There is a text field that you can search by name and you can also set up search criterion based on macronutrients using the "Filter" button.
+
+Once you are done selecting the food items you would like for your meal plan, you can click on the "Analyze Meal" button to see more detailed information about the meal plan you designed.
+
+You can save out the bank of food items in your program externally onto your local drive if you click on File->Save. The file should be saved locally in the folder where the program files are.
+
+**Enjoy planning your diet to meet your goals!**
